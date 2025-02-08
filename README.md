@@ -1,6 +1,6 @@
-# Welcome to Remix + Vite + Aceternity UI !
+# Welcome to CYCUMLC homepage repository
 
-<img width="1496" alt="image" src="https://github.com/LinaMahrouch/Remix-Aceternity-Starter/assets/109791074/ae40803b-5921-4ad8-9152-eb36bd01a6c9">
+
 
 ## Development
 ```sh
