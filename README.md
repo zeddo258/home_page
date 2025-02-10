@@ -4,7 +4,7 @@
 
 ## Development
 ```sh
-git clone https://github.com/LinaMahrouch/Remix-Aceternity-Starter.git
+git clone https://github.com/zeddo258/home_page.git
 npm install
 npm run dev 
 ```
