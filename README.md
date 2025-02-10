@@ -5,6 +5,7 @@
 ## Development
 ```sh
 git clone https://github.com/zeddo258/home_page.git
+cd home_page
 npm install
 npm run dev 
 ```
